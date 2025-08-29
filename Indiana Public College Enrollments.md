@@ -16,8 +16,8 @@ Non-resident student enrollment steadily increases as resident student enrollmen
 <img width="879" height="459" alt="Screenshot 2025-08-01 120557" src="https://github.com/user-attachments/assets/bcac715a-a641-4110-932f-7326b37ce821" />
 
 ## 2005: 
-<img width="293" height="251" alt="Screenshot 2025-08-01 122704" src="https://github.com/user-attachments/assets/c8a35c7d-b822-48aa-accd-e0bc1769f2b1" />
 <img width="896" height="457" alt="Screenshot 2025-08-01 120800" src="https://github.com/user-attachments/assets/f3bf0bb0-de8b-465f-b64d-3fff8025ad9d" />
+<img width="293" height="251" alt="Screenshot 2025-08-01 122704" src="https://github.com/user-attachments/assets/c8a35c7d-b822-48aa-accd-e0bc1769f2b1" />
 
 ## 2017:
 <img width="897" height="456" alt="Screenshot 2025-08-01 120851" src="https://github.com/user-attachments/assets/40a61bf6-845f-4445-bedc-88af2dd53f3e" />
