@@ -29,8 +29,9 @@ Enrollment distribution reveals student preferences in bachelor programs and in 
 
 - An overall decrease in student enrollment occurred and we were able to uncover how residency status and program degree level affected this occurrence. 
 - As resident student enrollment decreased, non-resident student enrollment increased. A strong preference in more long term programs existed from 2005 to 2017. A slight decreased preference in long term programs and slight increase in short term programs occurred.   
-*Dataset adjustments included established date hierarchy in the fiscal year attribute and creating a measure on residency status.   
-*The insights derived from this dataset uncovered trends in educational access and institutional preferences of the Indiana student population.
+
+Dataset adjustments included established date hierarchy in the fiscal year attribute and creating a measure on residency status.   
+The insights derived from this dataset uncovered trends in educational access and institutional preferences of the Indiana student population.
 
 
 
